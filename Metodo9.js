@@ -11,4 +11,4 @@ console.log(letras.flat());
 
 let palavras = [["abacaxi", "abacate"], , "acerola", "manga", , "goiaba "];
 
-console.log(palavras.flat())
+console.log(palavras.flat());
