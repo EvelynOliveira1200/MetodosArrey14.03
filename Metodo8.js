@@ -1,5 +1,5 @@
-//Método 8: Array.prototype.findLast()
-//Esse 
+//Método 8: Array.prototype.findLastIndex()
+//Esse método retorna o valor do último elemento do array que satisfizer a função de teste fornecida.
 
 //Exemplo 1: Encontrar o índice do ultimo número par em um array
 
